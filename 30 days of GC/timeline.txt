@@ -1,0 +1,15 @@
+21st sep - student registration form open.
+first 50,000 registrations on fcfs(first come first serve) algorithm. +10k
+
+27 sep - 27 oct (google cloud event for students)
+
+2- track
+
+track 1: Cloud infrastructure
+track 2: Machine Learning
+
+first meet 21st sep
+
+monday: Infrastructure
+tuesday: ML
+thursday: QnA
